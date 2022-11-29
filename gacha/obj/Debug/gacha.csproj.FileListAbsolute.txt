@@ -6,3 +6,11 @@ C:\Users\82109\Desktop\C#Temp\gacha\gacha\obj\Debug\gacha.csproj.SuggestedBindin
 C:\Users\82109\Desktop\C#Temp\gacha\gacha\obj\Debug\gacha.csproj.CoreCompileInputs.cache
 C:\Users\82109\Desktop\C#Temp\gacha\gacha\obj\Debug\gacha.exe
 C:\Users\82109\Desktop\C#Temp\gacha\gacha\obj\Debug\gacha.pdb
+E:\toy\gacha\Cumulative_Gacha\gacha\bin\Debug\gacha.exe.config
+E:\toy\gacha\Cumulative_Gacha\gacha\bin\Debug\gacha.exe
+E:\toy\gacha\Cumulative_Gacha\gacha\bin\Debug\gacha.pdb
+E:\toy\gacha\Cumulative_Gacha\gacha\obj\Debug\gacha.csproj.AssemblyReference.cache
+E:\toy\gacha\Cumulative_Gacha\gacha\obj\Debug\gacha.csproj.SuggestedBindingRedirects.cache
+E:\toy\gacha\Cumulative_Gacha\gacha\obj\Debug\gacha.csproj.CoreCompileInputs.cache
+E:\toy\gacha\Cumulative_Gacha\gacha\obj\Debug\gacha.exe
+E:\toy\gacha\Cumulative_Gacha\gacha\obj\Debug\gacha.pdb
