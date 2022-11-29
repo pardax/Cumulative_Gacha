@@ -1,0 +1,8 @@
+C:\Users\82109\Desktop\C#Temp\gacha\gacha\bin\Debug\gacha.exe.config
+C:\Users\82109\Desktop\C#Temp\gacha\gacha\bin\Debug\gacha.exe
+C:\Users\82109\Desktop\C#Temp\gacha\gacha\bin\Debug\gacha.pdb
+C:\Users\82109\Desktop\C#Temp\gacha\gacha\obj\Debug\gacha.csproj.AssemblyReference.cache
+C:\Users\82109\Desktop\C#Temp\gacha\gacha\obj\Debug\gacha.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Desktop\C#Temp\gacha\gacha\obj\Debug\gacha.csproj.CoreCompileInputs.cache
+C:\Users\82109\Desktop\C#Temp\gacha\gacha\obj\Debug\gacha.exe
+C:\Users\82109\Desktop\C#Temp\gacha\gacha\obj\Debug\gacha.pdb
