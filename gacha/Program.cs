@@ -24,11 +24,11 @@ public class Characters
 
 class gacha_gacha_cute
 {
-    Characters blueCap = new Characters("BlueCap", 1, "\"The hero appears\"", 1);
+    Characters blueCap = new Characters("BlueCap", 1, "\"hell world\"", 1);
     Characters hiruki = new Characters("Hiruki", 9, "\"Hello world\"", 2);
-    Characters reimu = new Characters("Reimu", 30, "\"Destory All Youkais!\"", 3);
-    Characters marisa = new Characters("Marisa", 30, "\"Master Spark!!\"", 3);
-    Characters alice = new Characters("Alice", 30, "\"YouKoSo\"", 3);
+    Characters reimu = new Characters("Reimu", 30, "\"hi\"", 3);
+    Characters marisa = new Characters("Marisa", 30, "\"hi2\"", 3);
+    Characters alice = new Characters("Alice", 30, "\"hi3\"", 3);
 
     public void Gacha()
     {
